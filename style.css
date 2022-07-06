@@ -22,3 +22,25 @@ h1{
     background-size: 2000px, 200000px;
     background-position: center;
 }
+.portionsecond{
+    text-align: center;
+    padding: 30px;
+}
+.portion-second{
+    display: flex;
+    text-align: center;
+    padding: 40px;
+}
+.half-width{
+    width: 20%;
+}
+.sec-ondportion{
+    text-align: center;
+}
+.donatenow{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
