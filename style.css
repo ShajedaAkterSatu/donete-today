@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
+    margin-top: 0px;
 }
 h1{
     font-size: 30px;
@@ -8,6 +9,7 @@ h1{
 .firstportion{
     text-align: center;
     color: white;
+    padding: 20px;
 }
 .donate-now-button{
     text-decoration: none;
@@ -17,9 +19,9 @@ h1{
     border-radius: 10px;
 }
 .portionfirst{
-    background-image: url(images/1657046461220.jpg);
+    background-image: url(images/donation8.jpg);
     background-repeat: no-repeat;
-    background-size: 2000px, 200000px;
+    background-size: 3000px, 2000000px;
     background-position: center;
 }
 .portionsecond{
@@ -44,3 +46,16 @@ h1{
     padding: 10px 20px;
     border-radius: 10px;
 }
+footer{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(black, black);
+}
+.behumble{
+    color: red;
+}
+.do-it{
+    color: aliceblue;
+}
+
