@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 30px;
+}
+.firstportion{
+    text-align: center;
+    color: white;
+}
+.donate-now-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.portionfirst{
+    background-image: url(images/1657046461220.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px, 200000px;
+    background-position: center;
+}
